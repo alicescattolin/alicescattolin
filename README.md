@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning studying in the Master of Statistics at the University of Geneva.
+:bar_chart: I’m currently learning studying in the Master of Statistics at the University of Geneva.
 
 <!--
 **alicescattolin/alicescattolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
