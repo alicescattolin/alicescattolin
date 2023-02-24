@@ -1,8 +1,8 @@
-## Hi there 👋
-
-:bar_chart: I’m currently enrolled in the Master of Statistics at the University of Geneva.
+## Hi 👋
 
 <!--
+:bar_chart: I’m currently enrolled in the Master of Statistics at the University of Geneva.
+
 **alicescattolin/alicescattolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
